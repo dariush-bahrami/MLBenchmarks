@@ -1,0 +1,8 @@
+uvicorn==0.18.2
+python-dotenv==0.20.0
+fastapi==0.79.0
+opencv-python-headless==4.6.0.66
+kornia==0.6.6
+scipy==1.8.1
+scikit-image==0.19.3
+python-multipart==0.0.5
